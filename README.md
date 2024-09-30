@@ -1,15 +1,10 @@
 # amenon-pvcc.github.io
 <html>
-<head> demonstration page</head>
+<head> My GitHub Pages Site
+</head>
 <body>
-<h1>My Github webpages</h1>
-<p>click
-<a href="https://www.pvcc.edu/">
-here
-for pvcc website</p>
-<p>html webpages i made</p>
-<a href="file:///C:/Users/Student/Desktop/firstwebpage.html">
-<a href="file:///C:/Users/Student/Desktop/mysecondwebpage.html">
-</a>
+    <h1>Welcome to My GitHub Pages Site!</h1>
+    <p>This is my first page hosted on GitHub.</p>
+    <a href="">Learn more about me</a>
 </body>
 </html>
