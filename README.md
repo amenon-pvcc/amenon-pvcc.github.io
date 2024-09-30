@@ -1,10 +1,10 @@
 # amenon-pvcc.github.io
 <html>
-<head> <title>demonstration page</title></head>
+<head> demonstration page</head>
 <body>
 <h1>My Github webpage</h1>
 <p>click
-<a href="http://amenon-pvcc.github.io">
+<a href="https://www.pvcc.edu/">
 here
 </a>
 for another page</p>
